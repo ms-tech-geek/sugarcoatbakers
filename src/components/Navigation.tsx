@@ -19,7 +19,7 @@ const Navigation = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Cake className="h-8 w-8 text-rose-600" />
-            <span className="ml-2 text-xl font-serif font-semibold text-gray-900">Sweet Memories</span>
+            <span className="ml-2 text-xl font-serif font-semibold text-gray-900">Sugar Coat</span>
           </div>
           
           {/* Desktop Navigation */}
